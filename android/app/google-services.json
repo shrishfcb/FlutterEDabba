@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "477688389175",
+    "firebase_url": "https://e-dabba.firebaseio.com",
+    "project_id": "e-dabba",
+    "storage_bucket": "e-dabba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477688389175:android:477ac5769e32c203",
+        "android_client_info": {
+          "package_name": "com.yourcompany.edabba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477688389175-hs2kjbq32l6tprqne6ms7e63nusotuiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yourcompany.edabba",
+            "certificate_hash": "fb0ef907debeb8603e11ef8aadea1f3b772a3234"
+          }
+        },
+        {
+          "client_id": "477688389175-s9sp8ajq8b0knm2343ece28nk402ek7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASAMwvcifoL2M_MA86hsGXoMJWq3zcetE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477688389175-s9sp8ajq8b0knm2343ece28nk402ek7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
